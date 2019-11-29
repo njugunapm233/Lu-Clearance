@@ -1,0 +1,260 @@
+body{
+  background-image: linear-gradient(grey,white);
+}
+
+.clear{
+  border-radius: 5px;
+  height: auto;
+  width: 70%;
+  margin:  auto;
+  background-color: #514f4f;
+}
+
+.clear label {
+  margin:auto;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+  line-height: 30px;
+  padding: 70px 100px;
+  color: #fff;
+}
+
+
+.clear select {
+  float:right;
+  margin:0px 200px;
+  width: 20%;
+  height: 30px;
+  padding-left: 10px;
+
+}
+
+.clear option{
+  padding: 20px;
+
+}
+
+.direct{
+  text-align: center;
+  color: red;
+  margin: auto;
+}
+button{
+  float: right;
+  color: #fff;
+  background-color: #514f4f;
+  height: 30px;
+  width: 10%;
+  font-weight: bold;
+}
+
+.clearance{
+  width: 100%;
+  height: 50px;
+  background-color: white;
+}
+
+.clearance button{
+  width: 8%;
+  height: 34px;
+  margin: 5px 50px;
+  float: inherit;
+  background-color: grey;
+}
+
+.clearance button a{
+  text-decoration: none;
+  color: white;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.profile {
+  width: 20%;
+  height: 20px;
+  padding: 3%;
+}
+
+.contact p{
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  line-height: 30px;
+  word-spacing: 5px;
+  font-family: serif;
+}
+
+.contact button a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.reset{
+  width: 40%;
+  height: 250px;
+  margin: 20px 370px;
+  background-color: grey;
+
+}
+.reset label {
+  padding: 1%;
+  float: left;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+.reset input{
+  width: 50%;
+  margin-left: 30px;
+  height: 25px;
+}
+
+.update form table{
+  width: 40%;
+  height: 300px;
+  margin: 30px 300px;
+  background-color: grey;
+}
+
+.update form table td{
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+.update form table td input{
+  width: 90%;
+  height: 15px;
+  padding: 3%;
+}
+
+.save a{
+  color: white;
+  text-decoration: none;
+}
+
+.header{
+  min-height: 80px;
+  width: 100%;
+  background-image: linear-gradient(grey,white,red);
+
+}
+
+.header button a{
+  text-align: center;
+  color: #fff;
+}
+
+.header img{
+  height: 70px;
+  width: 100%;
+}
+
+
+.header label{
+margin: 5px 450px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 30px;
+}
+.header button{
+  float: right;
+  height: 30px;
+  width: 10%;
+  margin: 10px;
+}
+
+.description {
+  height: 150px;
+  width: 100%;
+   background-color: white;
+   margin-top: 50px;
+}
+
+.footer {
+  margin-top: 240px;
+  height: 30px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.footer p{
+  text-align: center;
+}
+
+.reg table{
+  width: 50%;
+  height: 200px;
+  background-color: grey;
+  margin: 10px 340px;
+}
+
+.reg td{
+  margin: 1%;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  padding: 1%;
+}
+
+.reg td input{
+  width: 90%;
+  height: 20px;
+}
+
+h2{
+  text-align: center;
+}
+
+.log table{
+  width: 45%;
+  height: 100px;
+  background-color: grey;
+  margin: 10px 340px;
+}
+
+.log td input{
+  width: 90%;
+  height: 20px;
+}
+
+.forgot button{
+  float: right;
+  margin: 20px 100px;
+  height: 30px;
+  width: 15%;
+}
+
+.forgot button a{
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+
+.clearance1 button a{
+  color: #fff;
+}
+
+.forgot1 table{
+  width: 45%;
+  height: 100px;
+  background-color: grey;
+  margin: 10px 340px;
+}
+
+.forgot1 td{
+  margin: 1%;
+  font-size: 25px;
+  line-height: 30px;
+  font-weight: bold;
+  padding: 1%;
+}
+
+.forgot1 td input{
+  width: 90%;
+  height: 20px;
+}
